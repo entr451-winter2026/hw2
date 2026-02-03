@@ -104,10 +104,10 @@ puts ""
 # TODO!
 
 # Prints a header for the agent's list of represented actors output
-.print ""
-.print "Represented by agent"
-.print "===================="
-.print ""
+puts ""
+puts "Represented by agent"
+puts "===================="
+puts ""
 
 # Query the actor data and loop through the results to display the agent's list of represented actors output.
 # TODO!
